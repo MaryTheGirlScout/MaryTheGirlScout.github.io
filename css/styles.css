@@ -3,13 +3,36 @@
 	margin: 0;
 }
 
-.banner
+.green
 {
 	background-color:#00AE58;
 	color: white;
 	padding:5%;
+	float: left;
+	width: 100%;
 }
 
-.banner h1{
+.green h1{
 	font-size: 36;
+}
+
+.cookie{
+	float: left;
+	width: 20%;
+}
+.info {
+	float: left;
+	color:#00AE58;
+	background-color: white;
+	width: 60%;
+	margin-left: 3%;
+	margin-top: 3%;
+}
+.leftInfo{
+	float: left;
+	width: 60%;
+}
+.nick{
+	float: left;
+	padding-left: 10%;
 }
